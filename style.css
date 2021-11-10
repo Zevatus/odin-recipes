@@ -6,12 +6,13 @@ html{
 }
 
 
-.no-bulletpoints{
-    list-style-type:lower-latin;
+.image-links{
+    list-style-type:none;
 }
 
 img{
-    width; 400px;
+    min-width: 400px;
+    max-width: 600px;
     height: 400px;
 }
 a:visited,a:link{
